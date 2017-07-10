@@ -21,8 +21,8 @@ apply plugin: 'idea'
 apply plugin: 'org.springframework.boot'
 
 jar {
-    baseName = 'gs-actuator-service'
-    version =  '0.1.0'
+    baseName = 'saihong-spring-boot'
+    version =  '0.1.1'
 }
 
 sourceCompatibility = 1.8
